@@ -1,0 +1,27 @@
+{
+  "name": "first-char",
+  "version": "0.0.0",
+  "description": "Get first character of string",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UselessNodePackages/first-char.git"
+  },
+  "keywords": [
+    "last",
+    "lastline",
+    "string"
+  ],
+  "author": "Inndy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UselessNodePackages/first-char/issues"
+  },
+  "homepage": "https://github.com/UselessNodePackages/first-char#readme",
+  "devDependencies": {
+    "nodeunit": "^0.10.2"
+  }
+}
