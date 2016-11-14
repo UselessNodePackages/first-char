@@ -1,6 +1,6 @@
 {
   "name": "first-char",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Get first character of string",
   "main": "index.js",
   "scripts": {
