@@ -1,6 +1,6 @@
 # first-char
 
-[![Build Status](https://travis-ci.org/Inndy/first-char.svg?branch=master)](https://travis-ci.org/Inndy/first-char)
+[![Build Status](https://travis-ci.org/UselessNodePackages/first-char.svg?branch=master)](https://travis-ci.org/UselessNodePackages/first-char)
 
 Get first-char from a string
 
